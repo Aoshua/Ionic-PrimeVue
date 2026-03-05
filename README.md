@@ -56,6 +56,11 @@ app.use(PrimeVue, {
 ```bash
 npm install tailwindcss @tailwindcss/vite
 ```
+### Install Tailwind PrimeVue plugin:
+
+```bash
+npm install tailwindcss-primeui
+```
 
 ### Configure Vite
 
