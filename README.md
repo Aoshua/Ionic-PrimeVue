@@ -72,10 +72,11 @@ export default defineConfig({
 
 ### Add CSS Imports
 
-In your CSS file (e.g. `variables.css`):
+In your CSS file (e.g. `variables.css`): Note that this differs slightly from PrimeVue's Tailwind v4 docs
 
 ```css
-@import "tailwindcss";
+@import "tailwindcss/theme";
+@import "tailwindcss/utilities";
 @import "tailwindcss-primeui";
 ```
 
@@ -84,3 +85,8 @@ In your CSS file (e.g. `variables.css`):
 ```bash
 ionic capacitor add
 ```
+
+### Debug on Android:
+
+In `tsconfig.json` make sure `"moduleResolution": "bundler"`
+Run `npm run build`, then `ionic capacitor run android -l --external` to launch and run on your choice of Android emulator.

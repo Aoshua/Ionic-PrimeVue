@@ -1,7 +1,158 @@
 <template>
-	<div class="flex flex-col gap-2 justify-center items-center mt-[20%]">
+	<div class="flex flex-col gap-2 justify-center items-center p-4">
 		<strong>{{ name }}</strong>
 		<p>Explore <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<!-- blah -->
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
+		<div class="flex gap-2">
+			<Button label="Button A"></Button>
+			<Button label="Button B"></Button>
+			<Button label="Button C"></Button>
+		</div>
 		<div class="flex gap-2">
 			<Button label="Button A"></Button>
 			<Button label="Button B"></Button>
